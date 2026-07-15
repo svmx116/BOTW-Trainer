@@ -1,4 +1,4 @@
-# BotW Wii U Trainer
+# BOTW Wii U Trainer
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/svmx116/BOTW-Trainer)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
