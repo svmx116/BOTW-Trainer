@@ -28,10 +28,15 @@ A trainer for The Legend of Zelda: Breath of the Wild on Wii U using TCP Gecko.
 
 ## Features
 
-- Edit health, stamina, and rupees
-- Modify weapons and inventory
-- Moon Jump, speed
-- Infinite resources
+Edit health, stamina, and rupees
+
+Modify weapons and inventory
+
+Moon Jump, speed
+
+Infinite resources
+
+**And more!**
 
 ---
 
