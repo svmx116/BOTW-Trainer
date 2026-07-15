@@ -10,7 +10,7 @@ A trainer for The Legend of Zelda: Breath of the Wild on Wii U using TCP Gecko.
 
 ## Requirements
 
-- Wii U with Aroma or Tiramisu
+- Wii U with Tiramisu
 - TCP Gecko
 - Breath of the Wild (Wii U)
 
@@ -30,17 +30,17 @@ A trainer for The Legend of Zelda: Breath of the Wild on Wii U using TCP Gecko.
 
 - Edit health, stamina, and rupees
 - Modify weapons and inventory
-- Moon Jump, Speed Hack, No Clip
+- Moon Jump, speed
 - Infinite resources
 
 ---
 
 ## Credits
 
-Created by **svmx116**
+Built from **joffnerd**'s Archive
 
 ---
 
 ## Disclaimer
 
-Use at your own risk. Always back up your save files.
+Use at your own risk.
